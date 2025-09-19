@@ -76,7 +76,7 @@ whatsapp-expense-tracker/
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/seu-usuario/whatsapp-expense-tracker.git
+git clone https://github.com/guimarobo/whatsapp-expense-tracker.git
 cd whatsapp-expense-tracker
 ```
 
@@ -307,19 +307,8 @@ Verifique se o token de verificação está correto no arquivo `.env`
 Certifique-se de que o Flask-CORS está instalado e configurado
 
 ### Contato
-- 📧 Email: seu-email@exemplo.com
-- 💬 Issues: [GitHub Issues](https://github.com/seu-usuario/whatsapp-expense-tracker/issues)
-- 📖 Wiki: [Documentação Completa](https://github.com/seu-usuario/whatsapp-expense-tracker/wiki)
+- 📧 Email: guimarobo@outlook.com
+- 💬 Issues: [GitHub Issues](https://github.com/guimarobo/whatsapp-expense-tracker/issues)
+- 📖 Wiki: [Documentação Completa](https://github.com/guimarobo/whatsapp-expense-tracker/wiki)
 
-## 🎉 Agradecimentos
-
-- [spaCy](https://spacy.io/) - Biblioteca de NLP
-- [Flask](https://flask.palletsprojects.com/) - Framework web
-- [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp) - API oficial
-- [Matplotlib](https://matplotlib.org/) - Visualizações
-- Comunidade Python brasileira
-
----
-
-**Desenvolvido com ❤️ para facilitar o controle de gastos pessoais**
 
